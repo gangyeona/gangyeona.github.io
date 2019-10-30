@@ -1,13 +1,13 @@
 # Site settings
-title: LINA Blog
-SEOTitle: 丽娜的博客 | LINA Blog
+title: Lina Blog
+SEOTitle: 丽娜的博客 | Lina Blog
 header-img: img/post-bg-desk.jpg
 email: 1125296295@qq.com
 description: "Every failure is leading towards success."
-keyword: "gangyeona Blog, LINA Blog, 丽娜的博客, gangyeona, LINA"
+keyword: "gangyeona Blog, Lina Blog, 丽娜的博客, gangyeona, Lina"
 url: "http://gangyeona.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/gangyeona/gangyeona.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     username
 zhihu_username:     喵哒哒的拳拳
 github_username:    gangyeona
 # facebook_username:  username
