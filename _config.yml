@@ -1,11 +1,11 @@
 # Site settings
-title: YN Blog
-SEOTitle: 拳拳的博客 | YN Blog
+title: LINA Blog
+SEOTitle: 丽娜的博客 | LINA Blog
 header-img: img/post-bg-desk.jpg
 email: 1125296295@qq.com
 description: "Every failure is leading towards success."
-keyword: "gangyeona Blog, 拳拳的博客, gangyeona"
-url: "http://gangyeona.github.io"          # your host, for absolute URL
+keyword: "gangyeona Blog, LINA Blog, 丽娜的博客, gangyeona, LINA"
+url: "http://lina.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
