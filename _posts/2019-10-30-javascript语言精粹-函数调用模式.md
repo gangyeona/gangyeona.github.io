@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      函数调用模式
-subtitle:   WWDC 2018 Keynote 全记录
-date:       2018-06-05
-author:     BY
+subtitle:   JavaScript学习笔记
+date:       2019-10-30
+author:     gangyeona
 header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
@@ -53,7 +53,7 @@ myObject.double = function(){
     var that = this; //解决方法
     var helper = function(){
         that.value = add(that.value,that.value)
-    }    
+    } 
     helper()  //以函数形式调用 helper
 }
 myObject.double()
@@ -95,6 +95,7 @@ var statusObj = {
 // statusObj并没有继承Quo.prototype，但我们可以在statusObj上调用get_status方法，尽管statusObj并没有get_status函数
 var status = Quo.prototype.get_status.apply(statusObj) // status = "A-OK"
 ```
+
 
 
 
