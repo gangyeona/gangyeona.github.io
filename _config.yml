@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 617f23efdfa49bcde6d3                            #生成的clientID
+  clientSecret: 227f99fe3cd7734d6fc33026826d9ce175f681ff    #生成的clientSecret
   repo: gangyeona.github.io    #仓库名称
   owner: gangyeona    #github用户名
   admin: gangyeona
