@@ -31,7 +31,7 @@ service php7.0-fpm reload //重启php-fpm服务，版本号修改为自己环境
 ```
 
 重启后再次确认下`phpinfo`中是否有xdebug扩展，一般有xdebug配置出现。
-![image](../img/xdebug.png)
+![image](https://raw.githubusercontent.com/gangyeona/gangyeona.github.io/master/img/xdebug.png)
 ##### 3. php.ini
 修改php.ini配置文件
 ```
